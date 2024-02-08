@@ -17,7 +17,7 @@
 - <a href="https://www.linkedin.com/in/marcelo-rossignolli-21761b2b2/">Marcelo Rubim Rossignolli</a> 
 - <a href="www.linkedin.com/in/devmatheusfernandes">Matheus Fernandes Guimarães de Sousa</a>
 - <a href="https://www.linkedin.com/in/pabloazevedo/">Pablo de Azevedo</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Rodrigo </a>
+- <a href="">Rodrigo Lee</a>
 
 ## 👩‍🏫 Professores:
 ### Orientador(a) 
