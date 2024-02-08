@@ -15,9 +15,9 @@
 - <a href="https://www.linkedin.com/in/eduardo-fidelis-chaves/?originalSubdomain=br">Eduardo Fidelis Chaves</a>
 - <a href="https://www.linkedin.com/in/lucas-periquito-costa-2982552b3/">Lucas Periquito Costa</a> 
 - <a href="https://www.linkedin.com/in/marcelo-rossignolli-21761b2b2/">Marcelo Rubim Rossignolli</a> 
-- <a href="www.linkedin.com/in/devmatheusfernandes">Matheus Fernandes Guimarães de Sousa</a>
+- <a href="https://www.linkedin.com/in/devmatheusfernandes">Matheus Fernandes Guimarães de Sousa</a>
 - <a href="https://www.linkedin.com/in/pabloazevedo/">Pablo de Azevedo</a> 
-- <a href="www.linkedin.com/in/rodrigo-lee">Rodrigo Lee</a>
+- <a href="https://www.linkedin.com/in/rodrigo-lee">Rodrigo Lee</a>
 
 ## 👩‍🏫 Professores:
 ### Orientador(a) 
