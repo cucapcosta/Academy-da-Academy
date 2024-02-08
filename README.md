@@ -11,7 +11,7 @@
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/davi-de-oliveira-ferreira-b69466212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>Davi De Oliveira Ferreira</a>
+- <a href="https://www.linkedin.com/in/davi-de-oliveira-ferreira-b69466212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>Davi De Oliveira Ferreira"></a>
 - <a href="https://www.linkedin.com/in/eduardo-fidelis-chaves/?originalSubdomain=br">Eduardo Fidelis Chaves</a>
 - <a href="https://www.linkedin.com/in/lucas-periquito-costa-2982552b3/">Lucas Periquito Costa</a> 
 - <a href="https://www.linkedin.com/in/marcelo-rossignolli-21761b2b2/">Marcelo Rubim Rossignolli</a> 
@@ -25,10 +25,9 @@
 ### Instrutores
 - <a href="https://www.linkedin.com/in/bruna-mayer-00a556174/">Bruna Mayer</a>
 - <a href="https://www.linkedin.com/in/kizzyterra/">Kizzy Terra</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://www.linkedin.com/in/renato-penha/?originalSubdomain=br">Renato Penha</a> 
+- <a href="https://www.linkedin.com/in/henrique-mohallem-paiva-6854b460/">Henrique Mohallem Paiva</a>
+
 
 ## 📜 Descrição
 
