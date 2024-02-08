@@ -17,7 +17,7 @@
 - <a href="https://www.linkedin.com/in/marcelo-rossignolli-21761b2b2/">Marcelo Rubim Rossignolli</a> 
 - <a href="www.linkedin.com/in/devmatheusfernandes">Matheus Fernandes Guimarães de Sousa</a>
 - <a href="https://www.linkedin.com/in/pabloazevedo/">Pablo de Azevedo</a> 
-- <a href="">Rodrigo Lee</a>
+- <a href="www.linkedin.com/in/rodrigo-lee">Rodrigo Lee</a>
 
 ## 👩‍🏫 Professores:
 ### Orientador(a) 
@@ -33,7 +33,7 @@
 
 *Descreva seu projeto (até 600 palavras)*
 
-*Inclua o link para o jogo aqui*
+Incluir descrição do jogo e link do mesmo
 
 
 ## 📁 Estrutura de pastas
