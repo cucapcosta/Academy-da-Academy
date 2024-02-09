@@ -6,9 +6,11 @@
 
 <br>
 
-# Nome do projeto
+# Jornada às Nuvens (Placeholder)
+<p align="center"><img src="assets/logoacademy.png"></p>
 
-## Nome do grupo
+## Academy da Academy
+
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/davi-de-oliveira-ferreira-b69466212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Davi De Oliveira Ferreira</a>
