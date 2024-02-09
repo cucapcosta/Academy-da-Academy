@@ -6,8 +6,8 @@
 
 <br>
 
-# Jornada às Nuvens (Placeholder)
-<p align="center"><img src="assets/logoacademy.png"></p>
+# Educators Tech Track
+<p align="center"><img src="assets/logoett.png"></p>
 
 ## Academy da Academy
 
