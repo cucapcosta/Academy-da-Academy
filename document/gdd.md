@@ -50,7 +50,26 @@
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
 
-*Posicione aqui o canvas de proposta de valor. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera.*
+*Nós entendemos que a plataforma tem muito a agregar tanto no âmbito acadêmico quanto no profissional dos alunos que esses professores podem ajudar. O maior problema não é somente a falta de vontade, mas a falta de alternativas práticas, rápidas, e interativas de se acessar esse conteúdo para assim, serem ajudados a ensinarem os seus alunos. O nosso produto será capaz de trazer uma experiência muito agradável, diminuindo o tempo na criação de uma conta, e aumentando a satisfação e engajamento dos usuários. 
+Em suma, o valor do nosso produto é facilitar e aprimorar o acesso a plataforma Oracle Academy.*
+
+**Customer Profile:**
+Jobs|Pains|Gains
+--- | --- | ---
+Aprender a acessar plataforma da Academy | Não entender como acessar a Academy | Ter confiança na hora de utilizar a plataforma da Academy
+Conseguir seguir todos os passos para as tarefas | Não conseguir seguir as instruções da Academy | Memorizar como realizar diferentes tarefas na Academy
+Aprender de modo divertido | Esquecer como realizar alguma tarefa na Academy | Compreender todas instruções
+Adquirir conhecimento sobre como utilizar as diferentes funcionalidades da Academy | | Engajamento
+
+**Value Map:**
+Products and Services | Pain Relievers | Gain Creators
+--- | --- | ---
+Oracle Academy | Tutoriais todos em um só jogo (centralização do conhecimento) | Promove confiança na hora de acessar a plataforma
+| | Ensina como acessar a Academy | Aprender de forma fluida
+| | Promove a memorização da plataforma | Possibilidade de repetição, permitindo revisar conteúdo
+| | | Completar níveis dentro de um jogo
+
+
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
@@ -72,7 +91,7 @@
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
-*Posicione aqui uma descrição justificada do público-alvo do jogo, em termos demográficos e de preferências/gostos pessoais.*
+*Professores de computação do Brasil que buscam e/ou necessitam aprender a utilizar o ambiente da Oracle Academy. Ademais, que gostem de jogos, plataformas gamificadas, níveis de progressão.*
 
 # <a name="c2"></a>2. Visão Geral do Jogo (sprint 2)
 
