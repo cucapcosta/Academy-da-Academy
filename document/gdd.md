@@ -54,6 +54,7 @@
 Em suma, o valor do nosso produto é facilitar e aprimorar o acesso a plataforma Oracle Academy.*
 
 Jobs|Pains|Gains
+--- | --- | ---
 Aprender a acessar plataforma da Academy | Não entender como acessar a Academy | Ter confiança na hora de utilizar a plataforma da Academy
 
 
