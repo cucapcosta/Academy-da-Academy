@@ -102,15 +102,15 @@ Desafios de Criatividade e Inovação para o Jogo | Baixa | Baixo | Promover bra
 
 ## 1.3. Lista de Tarefas
 
-*Criar cronograma do projeto
-*Fazer wireframe
-*Fazer storyboard
-*Fazer roteiro
-*Definir grupos de tarefas/Desenvolvimento
-*Criar arte do menus/opções
-*Criar arte dos níveis, principal do jogo
-*Desenvolver o jogo
-*Testar o jogo
+* Criar cronograma do projeto
+* Fazer wireframe
+* Fazer storyboard
+* Fazer roteiro
+* Definir grupos de tarefas/Desenvolvimento
+* Criar arte do menus/opções
+* Criar arte dos níveis, principal do jogo
+* Desenvolver o jogo
+* Testar o jogo
 
 ## 1.4. Público-alvo do Projeto (sprint 2)
 
