@@ -3,13 +3,10 @@
 
 # GDD - Game Design Document - Módulo 1 - Inteli
 
-**_Os trechos em itálico servem apenas como guia para o preenchimento da seção. Por esse motivo, não devem fazer parte da documentação final_**
+## Academy da Academy
 
-## Nome do Grupo
-
-#### Nomes dos integrantes do grupo
-
-
+#### Integrantes: 
+#### Davi de Oliveira Ferreira<br>Eduardo Fidelis Chaves<br>Lucas Periquito Costa<br>Marcelo Rubim Rossignolli<br>Matheus Fernandes Guimarães de Sousa<br>Pablo de Azevedo<br>Rodrigo Lee
 
 ## Sumário
 
@@ -72,13 +69,10 @@ Oracle Academy | Tutoriais todos em um só jogo (centralização do conhecimento
 | | Promove a memorização da plataforma | Possibilidade de repetição, permitindo revisar conteúdo
 | | | Completar níveis dentro de um jogo
 
-
-
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
 Ameaças | Probabilidade | Impacto | Plano de Ação
---- | --- | --- | ---
-Inexperiência Técnica  em Programação Dificultar a Implementação das Ideias| Alta | Catastrófico | Realizar sessões de feedback frequentes para refinar o jogo com base nas sugestões dos professores
+--- | --- | --- | ---Inexperiência Técnica  em Programação Dificultar a Implementação das Ideias| Alta | Catastrófico | Realizar sessões de feedback frequentes para refinar o jogo com base nas sugestões dos professores
 Não Cumprir os Requisitos Mínimos e Deadline |  Média | Catastrófico | Priorizar as funcionalidades essenciais para garantir a entrega do MVP dentro do prazo
 Parceiro Desistir do Projeto | Baixa | Catastrófico | Marcar uma reunião com os responsáveis da Oracle Academy para entender os motivos da desistência e desmistificar prováveis medos que possam existir, e nos colocar à disposição para ajustes necessários
 Perda dos Arquivos do Jogo | Alta | Moderado | Realizar vários backups em diferentes lugares e fazer upload dos arquivos dentro do GitHub
