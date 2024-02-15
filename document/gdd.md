@@ -60,6 +60,12 @@ Conseguir seguir todos os passos para as tarefas | Não conseguir seguir as inst
 Aprender de modo divertido | Esquecer como realizar alguma tarefa na Academy | Compreender todas instruções
 Adquirir conhecimento sobre como utilizar as diferentes funcionalidades da Academy | | Engajamento
 
+Products and Services | Pain Relievers | Gain Creators
+Oracle Academy | Tutoriais todos em um só jogo (centralização do conhecimento) | Promove confiança na hora de acessar a plataforma
+| Ensina como acessar a Academy | Aprender de forma fluida
+| Promove a memorização da plataforma | Possibilidade de repetição, permitindo revisar conteúdo
+| | Completar níveis dentro de um jogo
+
 
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
