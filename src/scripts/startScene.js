@@ -3,6 +3,7 @@ var cloud_gray;
 var cloud_white;
 var ett_logo;
 var button;
+var startGame;
 class StartScene extends Phaser.Scene {
   constructor() {
     super({ key: "StartScene" });
@@ -26,7 +27,7 @@ class StartScene extends Phaser.Scene {
       "ett_logo",
       "../../assets/gameAssets/startMenu/ett_logo.png"
     );
-    this.load.image("botao", "../../assets/gameAssets/startMenu/ett_logo.png");
+    this.load.image("botao", "../../assets/gameAssets/Buttons/button.png");
   }
   create() {
     fundo = this.add.sprite(460, 280, "fundo");
@@ -43,10 +44,20 @@ class StartScene extends Phaser.Scene {
     cloud_gray = this.add.image(600, 260, "cloud_gray").setScale(0.8);
     button = this.add
       .image(460, 500, "botao")
+      .setScale(0.6)
       .setInteractive()
       .on(Phaser.Input.Events.GAMEOBJECT_POINTER_DOWN, () => {
-        console.log("Deu Certo");
+        startGame = true;
+      ;
       });
   }
-  update() {}
+  update() {
+
+    if(startGame === true){
+      cloud_gray.x +=1;
+      cloud_white.x -=1;
+      button.x = 3000;
+    }
+
+  }
 }
