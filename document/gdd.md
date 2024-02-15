@@ -56,6 +56,9 @@ Em suma, o valor do nosso produto é facilitar e aprimorar o acesso a plataforma
 Jobs|Pains|Gains
 --- | --- | ---
 Aprender a acessar plataforma da Academy | Não entender como acessar a Academy | Ter confiança na hora de utilizar a plataforma da Academy
+Conseguir seguir todos os passos para as tarefas | Não conseguir seguir as instruções da Academy | Memorizar como realizar diferentes tarefas na Academy
+Aprender de modo divertido | Esquecer como realizar alguma tarefa na Academy | Compreender todas instruções
+Adquirir conhecimento sobre como utilizar as diferentes funcionalidades da Academy | | Engajamento
 
 
 
