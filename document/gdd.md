@@ -100,7 +100,19 @@ Desafios de Criatividade e Inovação para o Jogo | Baixa | Baixo | Promover bra
 6 | Seguir as Brand Guidelines da Oracle
 7 | Fazer um Game Design Document 
 
-## 1.3. Público-alvo do Projeto (sprint 2)
+## 1.3. Lista de Tarefas
+
+*Criar cronograma do projeto
+*Fazer wireframe
+*Fazer storyboard
+*Fazer roteiro
+*Definir grupos de tarefas/Desenvolvimento
+*Criar arte do menus/opções
+*Criar arte dos níveis, principal do jogo
+*Desenvolver o jogo
+*Testar o jogo
+
+## 1.4. Público-alvo do Projeto (sprint 2)
 
 *Professores de computação do Brasil que buscam e/ou necessitam aprender a utilizar o ambiente da Oracle Academy. Ademais, que gostem de jogos, plataformas gamificadas, níveis de progressão.*
 
