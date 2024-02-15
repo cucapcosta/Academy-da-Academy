@@ -53,12 +53,16 @@
 *Nós entendemos que a plataforma tem muito a agregar tanto no âmbito acadêmico quanto no profissional dos alunos que esses professores podem ajudar. O maior problema não é somente a falta de vontade, mas a falta de alternativas práticas, rápidas, e interativas de se acessar esse conteúdo para assim, serem ajudados a ensinarem os seus alunos. O nosso produto será capaz de trazer uma experiência muito agradável, diminuindo o tempo na criação de uma conta, e aumentando a satisfação e engajamento dos usuários. 
 Em suma, o valor do nosso produto é facilitar e aprimorar o acesso a plataforma Oracle Academy.*
 
+**Customer Profile**
+
 Jobs|Pains|Gains
 --- | --- | ---
 Aprender a acessar plataforma da Academy | Não entender como acessar a Academy | Ter confiança na hora de utilizar a plataforma da Academy
 Conseguir seguir todos os passos para as tarefas | Não conseguir seguir as instruções da Academy | Memorizar como realizar diferentes tarefas na Academy
 Aprender de modo divertido | Esquecer como realizar alguma tarefa na Academy | Compreender todas instruções
 Adquirir conhecimento sobre como utilizar as diferentes funcionalidades da Academy | | Engajamento
+
+**Value Map**
 
 Products and Services | Pain Relievers | Gain Creators
 --- | --- | ---
