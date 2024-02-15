@@ -38,7 +38,7 @@
 
 ### 1.1.1. Contexto da indústria (sprints 1 e 4)
 
-*Posicione aqui o texto que explica o contexto da indústria/mercado do qual o parceiro de projeto faz parte. Contextualize o segmento de atuação do parceiro (pode ser indústria, comércio ou serviço). Caracterize as atividades executadas pelo negócio do parceiro e a abrangência de suas atividades (âmbito internacional, nacional ou regional).*
+*A Oracle Academy é uma ramificação filantrópica da empresa Oracle, cuja missão é ajudar os professores de tecnologia do mundo inteiro a prepararem seus alunos para carreiras desse meio de forma gratuita. A indústria de tecnologia educacional tem experimentado um crescimento exponencial desde 2010 no Brasil, acumulando mais de meio bilhão de dólares em investimento em startups, o que resulta em uma abundante quantidade de empresas Big Tech e de pequeno porte compromissados em integrar a tecnologia no ambiente de aprendizagem, em uma plataforma própria, para ensinar em sua maioria, tecnologia, computação, design e business.*
 
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
 
@@ -50,7 +50,26 @@
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
 
-*Posicione aqui o canvas de proposta de valor. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera.*
+*Nós entendemos que a plataforma tem muito a agregar tanto no âmbito acadêmico quanto no profissional dos alunos que esses professores podem ajudar. O maior problema não é somente a falta de vontade, mas a falta de alternativas práticas, rápidas, e interativas de se acessar esse conteúdo para assim, serem ajudados a ensinarem os seus alunos. O nosso produto será capaz de trazer uma experiência muito agradável, diminuindo o tempo na criação de uma conta, e aumentando a satisfação e engajamento dos usuários. 
+Em suma, o valor do nosso produto é facilitar e aprimorar o acesso a plataforma Oracle Academy.*
+
+**Customer Profile:**
+Jobs|Pains|Gains
+--- | --- | ---
+Aprender a acessar plataforma da Academy | Não entender como acessar a Academy | Ter confiança na hora de utilizar a plataforma da Academy
+Conseguir seguir todos os passos para as tarefas | Não conseguir seguir as instruções da Academy | Memorizar como realizar diferentes tarefas na Academy
+Aprender de modo divertido | Esquecer como realizar alguma tarefa na Academy | Compreender todas instruções
+Adquirir conhecimento sobre como utilizar as diferentes funcionalidades da Academy | | Engajamento
+
+**Value Map:**
+Products and Services | Pain Relievers | Gain Creators
+--- | --- | ---
+Oracle Academy | Tutoriais todos em um só jogo (centralização do conhecimento) | Promove confiança na hora de acessar a plataforma
+| | Ensina como acessar a Academy | Aprender de forma fluida
+| | Promove a memorização da plataforma | Possibilidade de repetição, permitindo revisar conteúdo
+| | | Completar níveis dentro de um jogo
+
+
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
