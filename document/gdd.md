@@ -38,15 +38,18 @@
 
 ### 1.1.1. Contexto da indústria (sprints 1 e 4)
 
-*A Oracle Academy é uma ramificação filantrópica da empresa Oracle, cuja missão é ajudar os professores de tecnologia do mundo inteiro a prepararem seus alunos para carreiras desse meio de forma gratuita. A indústria de tecnologia educacional tem experimentado um crescimento exponencial desde 2010 no Brasil, acumulando mais de meio bilhão de dólares em investimento em startups, o que resulta em uma abundante quantidade de empresas Big Tech e de pequeno porte compromissados em integrar a tecnologia no ambiente de aprendizagem, em uma plataforma própria, para ensinar em sua maioria, tecnologia, computação, design e business.*
+*A Oracle Academy é uma ramificação filantrópica da empresa Oracle, cuja missão é ajudar os professores de tecnologia do mundo inteiro a prepararem seus alunos para carreiras desse meio de forma gratuita. A indústria de tecnologia educacional tem experimentado um crescimento exponencial desde 2010 no Brasil, acumulando mais de meio bilhão de dólares em investimento em startups, o que resulta em uma abundante quantidade de empresas Big Tech e de pequeno porte compromissados em integrar a tecnologia no ambiente de aprendizagem, em uma plataforma própria, para ensinar em sua maioria, tecnologia, computação, design e business*
 
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
 
-*Posicione aqui a análise SWOT relacionada ao parceiro de projeto. Utilize a análise SWOT para fazer uma análise ambiental do parceiro no âmbito estratégico. Leve em consideração o contexto da indústria, concorrência e as características do ambiente interno (forças e fraquezas) e externo (oportunidades e ameaças) do parceiro.*
+**Forças:** Experiência de vários anos no mercado; Afiliação com a Oracle; Ensino aprofundado nos assuntos retratados; Suporte aos professores através de workshops;\
+**Fraquezas:** Processo de cadastro complexo na plataforma; Conteúdo nichado em tecnologias Oracle/Pouca diversidade de tópicos;\
+**Oportunidades:** Crescimento do E-Learning e tecnologia educacional; Integração de novas tecnologias como AI e Machine Learning no currículo;\
+**Ameaças:** Mudanças rápidas na tecnologia e no mercado de trabalho; Concorrência intensa entre plataformas educacionais;\
 
 ### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
 
-*Descreva brevemente a solução desenvolvida para o parceiro de negócios. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera. Observe a seção 2 e verifique que ali é possível trazer mais detalhes, portanto seja objetivo aqui. Atualize esta descrição até a entrega final, conforme desenvolvimento.*
+*Descrição da Solução Desenvolvida: A nossa solução é fazer um jogo que será acessível para a web, e ajudará o usuário a navegar na plataforma Oracle Academy com mais confiança. Esse jogo será feito utilizando o framework Phaser, e a linguagem de programação será Javascript. Serão utilizadas estratégias de gamificação para tornar o jogo mais interativo e engajante, mas não infantilidade.*
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
 
@@ -87,17 +90,15 @@ Desafios de Criatividade e Inovação para o Jogo | Baixa | Baixo | Promover bra
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
-*Posicione aqui a lista de requisitos levantados para o projeto, sejam pedidos do parceiro ou invenções do grupo. Descreva-os de forma objetiva, de modo que seja possível entender claramente como implementá-los tecnicamente.*
-
-*ATUALIZE ESTA SEÇÃO SEMPRE QUE ALGUM REQUISITO MUDAR EM SEU PROJETO*
-
-*Exemplo de tabela de requisitos*
-\# | Requisito  
+\# | Requisitos
 --- | ---
-1 | O controle do personagem será realizado usando as teclas WASD para navegação pelas fases
-2 | O personagem perde uma vida toda vez que tocar em um inimigo ou em algum projétil inimigo
-3 | O jogo deve possuir uma tela de abertura para o jogador selecionar se quer jogar sozinho ou em dupla
-4 | ...
+1 | Fazer um serious game |
+2 | Contemplar o mapeamento da jornada do professor na Oracle Academy
+3 | Ser em primeira pessoa
+4 | Acesso do jogo via Web/PC
+5 | Publicação do jogo em Git Page
+6 | Seguir as Brand Guidelines da Oracle
+7 | Fazer um Game Design Document 
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
