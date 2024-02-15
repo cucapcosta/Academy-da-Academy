@@ -91,7 +91,7 @@ Oracle Academy | Tutoriais todos em um só jogo (centralização do conhecimento
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
-*Posicione aqui uma descrição justificada do público-alvo do jogo, em termos demográficos e de preferências/gostos pessoais.*
+*Professores de computação do Brasil que buscam e/ou necessitam aprender a utilizar o ambiente da Oracle Academy. Ademais, que gostem de jogos, plataformas gamificadas, níveis de progressão.*
 
 # <a name="c2"></a>2. Visão Geral do Jogo (sprint 2)
 
