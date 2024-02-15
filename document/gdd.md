@@ -61,6 +61,7 @@ Aprender de modo divertido | Esquecer como realizar alguma tarefa na Academy | C
 Adquirir conhecimento sobre como utilizar as diferentes funcionalidades da Academy | | Engajamento
 
 Products and Services | Pain Relievers | Gain Creators
+--- | --- | ---
 Oracle Academy | Tutoriais todos em um só jogo (centralização do conhecimento) | Promove confiança na hora de acessar a plataforma
 | Ensina como acessar a Academy | Aprender de forma fluida
 | Promove a memorização da plataforma | Possibilidade de repetição, permitindo revisar conteúdo
