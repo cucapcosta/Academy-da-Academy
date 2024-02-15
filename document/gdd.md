@@ -63,8 +63,8 @@ Adquirir conhecimento sobre como utilizar as diferentes funcionalidades da Acade
 Products and Services | Pain Relievers | Gain Creators
 --- | --- | ---
 Oracle Academy | Tutoriais todos em um só jogo (centralização do conhecimento) | Promove confiança na hora de acessar a plataforma
-| Ensina como acessar a Academy | Aprender de forma fluida
-| Promove a memorização da plataforma | Possibilidade de repetição, permitindo revisar conteúdo
+| | Ensina como acessar a Academy | Aprender de forma fluida
+| | Promove a memorização da plataforma | Possibilidade de repetição, permitindo revisar conteúdo
 | | Completar níveis dentro de um jogo
 
 
