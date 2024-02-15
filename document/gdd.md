@@ -54,7 +54,17 @@
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
-*Registre na matriz os riscos identificados no projeto, visando avaliar situações que possam representar ameaças e oportunidades, bem como os impactos relevantes sobre o projeto. Apresente os riscos, ressaltando, para cada um, impactos e probabilidades com plano de ação e respostas.*
+Ameaças | Probabilidade | Impacto | Plano de Ação
+--- | --- | --- | ---
+Inexperiência Técnica  em Programação Dificultar a Implementação das Ideias| Alta | Catastrófico | Realizar sessões de feedback frequentes para refinar o jogo com base nas sugestões dos professores
+Não Cumprir os Requisitos Mínimos e Deadline |  Média | Catastrófico | Priorizar as funcionalidades essenciais para garantir a entrega do MVP dentro do prazo
+Parceiro Desistir do Projeto | Baixa | Catastrófico | Marcar uma reunião com os responsáveis da Oracle Academy para entender os motivos da desistência e desmistificar prováveis medos que possam existir, e nos colocar à disposição para ajustes necessários
+Perda dos Arquivos do Jogo | Alta | Moderado | Realizar vários backups em diferentes lugares e fazer upload dos arquivos dentro do GitHub
+Integrantes não Realizarem suas Tarefas Designadas dentro do Prazo | Média | Moderado | Conversar de maneira franca e respeitosa com essa pessoa, e entender os motivos por trás desse impedimento
+Jogo não ser Engajante o Suficiente | Baixa | Moderado | Utilizar estratégias de gamificação que visem o público alvo, e realizar testes com professores para descobrir quais áreas devem ser melhoradas
+Falhas Técnicas e Bugs | Alta | Baixo | Estabelecer um processo rigoroso de teste beta, envolvendo usuários finais (professores) para identificação precoce de problemas
+Problemas de Comunicação e Coordenação no Grupo | Média | Baixo | Implementar ferramentas de gestão de projetos e comunicação para melhorar a coordenação e o acompanhamento de tarefas
+Desafios de Criatividade e Inovação para o Jogo | Baixa | Baixo | Promover brainstormings com feedback externo para inspirar soluções criativas e inovadoras
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
