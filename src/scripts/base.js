@@ -1,3 +1,4 @@
+//configuração do phaser
 var config = {
   type: Phaser.AUTO,
   width: 920,
