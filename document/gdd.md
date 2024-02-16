@@ -72,7 +72,8 @@ Oracle Academy | Tutoriais todos em um só jogo (centralização do conhecimento
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
 Ameaças | Probabilidade | Impacto | Plano de Ação
---- | --- | --- | ---Inexperiência Técnica  em Programação Dificultar a Implementação das Ideias| Alta | Catastrófico | Realizar sessões de feedback frequentes para refinar o jogo com base nas sugestões dos professores
+--- | --- | --- | ---
+Inexperiência Técnica  em Programação Dificultar a Implementação das Ideias| Alta | Catastrófico | Realizar sessões de feedback frequentes para refinar o jogo com base nas sugestões dos professores
 Não Cumprir os Requisitos Mínimos e Deadline |  Média | Catastrófico | Priorizar as funcionalidades essenciais para garantir a entrega do MVP dentro do prazo
 Parceiro Desistir do Projeto | Baixa | Catastrófico | Marcar uma reunião com os responsáveis da Oracle Academy para entender os motivos da desistência e desmistificar prováveis medos que possam existir, e nos colocar à disposição para ajustes necessários
 Perda dos Arquivos do Jogo | Alta | Moderado | Realizar vários backups em diferentes lugares e fazer upload dos arquivos dentro do GitHub
@@ -249,7 +250,21 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
 ## 4.1. Desenvolvimento preliminar do jogo (sprint 1)
 
-*Descreva e ilustre aqui o desenvolvimento da sua primeira versão do jogo, explicando brevemente o que foi entregue em termos de código e jogo. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
+*Desenvolemos a tela inicial do jogo e planejamos expandir para as próximas fases nos próximos sprints. Como nosso objetivo é equilibrar a seriedade educacional com a interatividade do jogo, e crucial que também seja uma experiência progressiva e acessível aos usuários,. As fases do jogo representarão diferentes níveis de conhecimento e familiarização da plataforma, e ao final de cada uma dessas fases, haverá perguntas se o usuário entendeu ou gostaria de repetir mais lentamente, para realmente fixar aquele conteúdo.*
+
+![Uma tela onde é perguntado se aquele usuário entendeu o conteúdo e deseja progredir, se deseja repetir, ou repetir aquela lição mais lentamente](other/finishedLesson.png)
+
+*Os professores também receberão um certificado ao final do jogo que reflete sua habilidade em se locomover na plataforma. As fases serão representadas visualmente através de uma jornada ascendente nas nuvens, a progressão seria da seguinte forma:*
+
+![Um sistema de fases que vão subindo, onde cada cada nuvem é um nível, e ao final, uma nuvem de certificado](other/levelProgression.png)
+
+*A parte prática que fizemos foi criar uma tela inicial, um fundo com uma textura que se mexe, e um botão que ao clicado, abrem-se as nuvens para revelar o nome do jogo. Posteriormente, seria interessante adicionar algumas opções abaixo da logo, como por exemplo o botão de iniciar o jogo. Aqui está a tela inicial com o botão e o que acontece quando pressionado:*
+
+![juma tela de nuvens com um botão no meio dizendo: vamos nessa!](other/home1.png)
+![O botão foi clicado e agora as nuvens estão se abrindo](other/home2.png)
+![As nuvens se abriram revelando completamente o nome do jogo: Educators Tech Track](other/home3.png)
+
+*Entendemos que houveram certas dificuldades no meio da produção desse sprint. A falta de conhecimento técnico do framework e da linguagem de programação, um feriado que tirou 3 dias de aula, mudanças de organização do grupo e de descobertas de requesitos, tudo isso influenciou na entrega de um produto que por mais que seja funcional, ainda tem muito potencial que por conta desses impecílios, não demos conta de implementar. Mas será a prioridade do grupo que no próximo sprint busquemos todas essas oportunidades e ideias adicionando ainda mais outras.*
 
 ## 4.2. Desenvolvimento básico do jogo (sprint 2)
 
