@@ -1,35 +1,39 @@
 var fundo;
-var cloud_gray;
-var cloud_white;
-var ett_logo;
+var cloudGray;
+var cloudRed;
+var ettLogo;
 var button;
 var startGame;
+//Configurando como uma cena phaser
 class StartScene extends Phaser.Scene {
   constructor() {
     super({ key: "StartScene" });
   }
 
+  //carregando arquivos
   preload() {
+    //carregando spritesheet do fundo
     this.load.spritesheet(
       "fundo",
       "../../assets/gameAssets/startMenu/backgrounds/background.png",
       { frameWidth: 920, frameHeight: 560 }
     );
     this.load.image(
-      "cloud_gray",
+      "cloudGray",
       "../../assets/gameAssets/startMenu/nuvem_1.png"
     );
     this.load.image(
-      "cloud_white",
+      "cloudRed",
       "../../assets/gameAssets/startMenu/nuvem_2.png"
     );
     this.load.image(
-      "ett_logo",
+      "ettLogo",
       "../../assets/gameAssets/startMenu/ett_logo.png"
     );
     this.load.image("botao", "../../assets/gameAssets/Buttons/button.png");
   }
   create() {
+    //Criando e animando fundo
     fundo = this.add.sprite(460, 280, "fundo");
     this.anims.create({
       key: "fundoMove",
@@ -39,9 +43,11 @@ class StartScene extends Phaser.Scene {
     });
     fundo.anims.play("fundoMove", true);
 
-    ett_logo = this.add.image(460, 300, "ett_logo").setScale(0.2);
-    cloud_white = this.add.image(400, 300, "cloud_white").setScale(0.8);
-    cloud_gray = this.add.image(600, 260, "cloud_gray").setScale(0.8);
+    //adicionar logo e nuvens
+    ettLogo = this.add.image(460, 300, "ettLogo").setScale(0.2);
+    cloudRed = this.add.image(400, 300, "cloudRed").setScale(0.8);
+    cloudGray = this.add.image(600, 260, "cloudGray").setScale(0.8);
+    //Adicionar botão para inicio da animação
     button = this.add
       .image(600, 320, "botao")
       .setScale(0.6)
@@ -50,14 +56,17 @@ class StartScene extends Phaser.Scene {
         startGame = true;
       });
   }
+  
   update() {
+    //Animação ao apertar o botão
     if (startGame === true) {
-      cloud_gray.x += 3;
-      cloud_white.x -= 3;
+      cloudGray.x += 3; //nuvem cinza vai para a direita
+      cloudRed.x -= 3;
       button.x = 3000;
-      if (ett_logo.scaleX < 0.7) {
-        ett_logo.scaleX += 0.002;
-        ett_logo.scaleY += 0.002;
+      //verificar tamanho da logo antes de crescer
+      if (ettLogo.scaleX < 0.7) {
+        ettLogo.scaleX += 0.002;
+        ettLogo.scaleY += 0.002;
       }
     }
   }
