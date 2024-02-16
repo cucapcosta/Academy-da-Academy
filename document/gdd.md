@@ -3,13 +3,10 @@
 
 # GDD - Game Design Document - Módulo 1 - Inteli
 
-**_Os trechos em itálico servem apenas como guia para o preenchimento da seção. Por esse motivo, não devem fazer parte da documentação final_**
+## Academy da Academy
 
-## Nome do Grupo
-
-#### Nomes dos integrantes do grupo
-
-
+#### Integrantes: 
+#### Davi de Oliveira Ferreira<br>Eduardo Fidelis Chaves<br>Lucas Periquito Costa<br>Marcelo Rubim Rossignolli<br>Matheus Fernandes Guimarães de Sousa<br>Pablo de Azevedo<br>Rodrigo Lee
 
 ## Sumário
 
@@ -38,15 +35,18 @@
 
 ### 1.1.1. Contexto da indústria (sprints 1 e 4)
 
-*A Oracle Academy é uma ramificação filantrópica da empresa Oracle, cuja missão é ajudar os professores de tecnologia do mundo inteiro a prepararem seus alunos para carreiras desse meio de forma gratuita. A indústria de tecnologia educacional tem experimentado um crescimento exponencial desde 2010 no Brasil, acumulando mais de meio bilhão de dólares em investimento em startups, o que resulta em uma abundante quantidade de empresas Big Tech e de pequeno porte compromissados em integrar a tecnologia no ambiente de aprendizagem, em uma plataforma própria, para ensinar em sua maioria, tecnologia, computação, design e business.*
+*A Oracle Academy é uma ramificação filantrópica da empresa Oracle, cuja missão é ajudar os professores de tecnologia do mundo inteiro a prepararem seus alunos para carreiras desse meio de forma gratuita. A indústria de tecnologia educacional tem experimentado um crescimento exponencial desde 2010 no Brasil, acumulando mais de meio bilhão de dólares em investimento em startups, o que resulta em uma abundante quantidade de empresas Big Tech e de pequeno porte compromissados em integrar a tecnologia no ambiente de aprendizagem, em uma plataforma própria, para ensinar em sua maioria, tecnologia, computação, design e business*
 
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
 
-*Posicione aqui a análise SWOT relacionada ao parceiro de projeto. Utilize a análise SWOT para fazer uma análise ambiental do parceiro no âmbito estratégico. Leve em consideração o contexto da indústria, concorrência e as características do ambiente interno (forças e fraquezas) e externo (oportunidades e ameaças) do parceiro.*
+**Forças:** Experiência de vários anos no mercado; Afiliação com a Oracle; Ensino aprofundado nos assuntos retratados; Suporte aos professores através de workshops;\
+**Fraquezas:** Processo de cadastro complexo na plataforma; Conteúdo nichado em tecnologias Oracle/Pouca diversidade de tópicos;\
+**Oportunidades:** Crescimento do E-Learning e tecnologia educacional; Integração de novas tecnologias como AI e Machine Learning no currículo;\
+**Ameaças:** Mudanças rápidas na tecnologia e no mercado de trabalho; Concorrência intensa entre plataformas educacionais;
 
 ### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
 
-*Descreva brevemente a solução desenvolvida para o parceiro de negócios. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera. Observe a seção 2 e verifique que ali é possível trazer mais detalhes, portanto seja objetivo aqui. Atualize esta descrição até a entrega final, conforme desenvolvimento.*
+*Descrição da Solução Desenvolvida: A nossa solução é fazer um jogo que será acessível para a web, e ajudará o usuário a navegar na plataforma Oracle Academy com mais confiança. Esse jogo será feito utilizando o framework Phaser, e a linguagem de programação será Javascript. Serão utilizadas estratégias de gamificação para tornar o jogo mais interativo e engajante, mas não infantilidade.*
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
 
@@ -69,27 +69,45 @@ Oracle Academy | Tutoriais todos em um só jogo (centralização do conhecimento
 | | Promove a memorização da plataforma | Possibilidade de repetição, permitindo revisar conteúdo
 | | | Completar níveis dentro de um jogo
 
-
-
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
-*Registre na matriz os riscos identificados no projeto, visando avaliar situações que possam representar ameaças e oportunidades, bem como os impactos relevantes sobre o projeto. Apresente os riscos, ressaltando, para cada um, impactos e probabilidades com plano de ação e respostas.*
+Ameaças | Probabilidade | Impacto | Plano de Ação
+--- | --- | --- | ---
+Inexperiência Técnica  em Programação Dificultar a Implementação das Ideias| Alta | Catastrófico | Realizar sessões de feedback frequentes para refinar o jogo com base nas sugestões dos professores
+Não Cumprir os Requisitos Mínimos e Deadline |  Média | Catastrófico | Priorizar as funcionalidades essenciais para garantir a entrega do MVP dentro do prazo
+Parceiro Desistir do Projeto | Baixa | Catastrófico | Marcar uma reunião com os responsáveis da Oracle Academy para entender os motivos da desistência e desmistificar prováveis medos que possam existir, e nos colocar à disposição para ajustes necessários
+Perda dos Arquivos do Jogo | Alta | Moderado | Realizar vários backups em diferentes lugares e fazer upload dos arquivos dentro do GitHub
+Integrantes não Realizarem suas Tarefas Designadas dentro do Prazo | Média | Moderado | Conversar de maneira franca e respeitosa com essa pessoa, e entender os motivos por trás desse impedimento
+Jogo não ser Engajante o Suficiente | Baixa | Moderado | Utilizar estratégias de gamificação que visem o público alvo, e realizar testes com professores para descobrir quais áreas devem ser melhoradas
+Falhas Técnicas e Bugs | Alta | Baixo | Estabelecer um processo rigoroso de teste beta, envolvendo usuários finais (professores) para identificação precoce de problemas
+Problemas de Comunicação e Coordenação no Grupo | Média | Baixo | Implementar ferramentas de gestão de projetos e comunicação para melhorar a coordenação e o acompanhamento de tarefas
+Desafios de Criatividade e Inovação para o Jogo | Baixa | Baixo | Promover brainstormings com feedback externo para inspirar soluções criativas e inovadoras
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
-*Posicione aqui a lista de requisitos levantados para o projeto, sejam pedidos do parceiro ou invenções do grupo. Descreva-os de forma objetiva, de modo que seja possível entender claramente como implementá-los tecnicamente.*
-
-*ATUALIZE ESTA SEÇÃO SEMPRE QUE ALGUM REQUISITO MUDAR EM SEU PROJETO*
-
-*Exemplo de tabela de requisitos*
-\# | Requisito  
+\# | Requisitos
 --- | ---
-1 | O controle do personagem será realizado usando as teclas WASD para navegação pelas fases
-2 | O personagem perde uma vida toda vez que tocar em um inimigo ou em algum projétil inimigo
-3 | O jogo deve possuir uma tela de abertura para o jogador selecionar se quer jogar sozinho ou em dupla
-4 | ...
+1 | Fazer um serious game |
+2 | Contemplar o mapeamento da jornada do professor na Oracle Academy
+3 | Ser em primeira pessoa
+4 | Acesso do jogo via Web/PC
+5 | Publicação do jogo em Git Page
+6 | Seguir as Brand Guidelines da Oracle
+7 | Fazer um Game Design Document 
 
-## 1.3. Público-alvo do Projeto (sprint 2)
+## 1.3. Lista de Tarefas
+
+* Criar cronograma do projeto
+* Fazer wireframe
+* Fazer storyboard
+* Fazer roteiro
+* Definir grupos de tarefas/Desenvolvimento
+* Criar arte do menus/opções
+* Criar arte dos níveis, principal do jogo
+* Desenvolver o jogo
+* Testar o jogo
+
+## 1.4. Público-alvo do Projeto (sprint 2)
 
 *Professores de computação do Brasil que buscam e/ou necessitam aprender a utilizar o ambiente da Oracle Academy. Ademais, que gostem de jogos, plataformas gamificadas, níveis de progressão.*
 
@@ -232,7 +250,21 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
 ## 4.1. Desenvolvimento preliminar do jogo (sprint 1)
 
-*Descreva e ilustre aqui o desenvolvimento da sua primeira versão do jogo, explicando brevemente o que foi entregue em termos de código e jogo. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
+*Desenvolemos a tela inicial do jogo e planejamos expandir para as próximas fases nos próximos sprints. Como nosso objetivo é equilibrar a seriedade educacional com a interatividade do jogo, e crucial que também seja uma experiência progressiva e acessível aos usuários,. As fases do jogo representarão diferentes níveis de conhecimento e familiarização da plataforma, e ao final de cada uma dessas fases, haverá perguntas se o usuário entendeu ou gostaria de repetir mais lentamente, para realmente fixar aquele conteúdo.
+
+![Uma tela onde é perguntado se aquele usuário entendeu o conteúdo e deseja progredir, se deseja repetir, ou repetir aquela lição mais lentamente](other/finishedLesson.png)
+
+Os professores também receberão um certificado ao final do jogo que reflete sua habilidade em se locomover na plataforma. As fases serão representadas visualmente através de uma jornada ascendente nas nuvens, a progressão seria da seguinte forma:
+
+![Um sistema de fases que vão subindo, onde cada cada nuvem é um nível, e ao final, uma nuvem de certificado](other/levelProgression.png)
+
+A parte prática que fizemos foi criar uma tela inicial, um fundo com uma textura que se mexe, e um botão que ao clicado, abrem-se as nuvens para revelar o nome do jogo. Posteriormente, seria interessante adicionar algumas opções abaixo da logo, como por exemplo o botão de iniciar o jogo. Aqui está a tela inicial com o botão e o que acontece quando pressionado:
+
+![juma tela de nuvens com um botão no meio dizendo: vamos nessa!](other/home1.png)
+![O botão foi clicado e agora as nuvens estão se abrindo](other/home2.png)
+![As nuvens se abriram revelando completamente o nome do jogo: Educators Tech Track](other/home3.png)
+
+Entendemos que houveram certas dificuldades no meio da produção desse sprint. A falta de conhecimento técnico do framework e da linguagem de programação, um feriado que tirou 3 dias de aula, mudanças de organização do grupo e de descobertas de requesitos, tudo isso influenciou na entrega de um produto que por mais que seja funcional, ainda tem muito potencial que por conta desses impecílios, não demos conta de implementar. Mas será a prioridade do grupo que no próximo sprint busquemos todas essas oportunidades e ideias adicionando ainda mais outras.*
 
 ## 4.2. Desenvolvimento básico do jogo (sprint 2)
 
