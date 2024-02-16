@@ -39,11 +39,11 @@ class StartScene extends Phaser.Scene {
     });
     fundo.anims.play("fundoMove", true);
 
-    ett_logo = this.add.image(460, 300, "ett_logo").setScale(0.5);
+    ett_logo = this.add.image(460, 300, "ett_logo").setScale(0.1);
     cloud_white = this.add.image(400, 300, "cloud_white").setScale(0.8);
     cloud_gray = this.add.image(600, 260, "cloud_gray").setScale(0.8);
     button = this.add
-      .image(460, 500, "botao")
+      .image(600, 320, "botao")
       .setScale(0.6)
       .setInteractive()
       .on(Phaser.Input.Events.GAMEOBJECT_POINTER_DOWN, () => {
@@ -57,6 +57,11 @@ class StartScene extends Phaser.Scene {
       cloud_gray.x +=1;
       cloud_white.x -=1;
       button.x = 3000;
+      if(ett_logo.scaleX < 0.7){
+        ett_logo.scaleX+=0.001
+        ett_logo.scaleY+=0.001
+      }
+      
     }
 
   }
